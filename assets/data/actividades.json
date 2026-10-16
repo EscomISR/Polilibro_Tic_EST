@@ -1,0 +1,245 @@
+{
+  "titulo": "Actividades de Aprendizaje y Simuladores Prácticos",
+  "boton_cerrar": "Cerrar ventana",
+  "secciones": [
+    {
+      "id": "unidad-01",
+      "pestana": "Unidad 1",
+      "titulo": "Unidad 1: Introducción a la logística y cadena de suministro",
+      "descripcion": "Simulador de decisiones logísticas sobre trade-off de costos vs nivel de servicio, diagnóstico causal de cuellos de botella y cálculo de KPIs (OTIF, Fill Rate) en confección deportiva.",
+      "nota": "Aplica los criterios de ingeniería para diagnosticar fallas operativas y optimizar el costo total.",
+      "items": [
+        {
+          "tag": "Simulador y Laboratorio ESIT",
+          "reactivos": "Simulador interactivo + 4 Fases",
+          "tiempo": "35 min",
+          "titulo": "Simulador y Caso: Empresa 'Textiles del Centro'",
+          "descripcion": "Diagnóstico de cuellos de botella, sliders de trade-off de costos, auditoría numérica de pedidos reales y dictamen estratégico.",
+          "url": "unidades/unidad-01/actividades/actividad-final.html",
+          "icono": "fa-flask",
+          "destacada": true
+        }
+      ]
+    },
+    {
+      "id": "unidad-02",
+      "pestana": "Unidad 2",
+      "titulo": "Unidad 2: Almacenaje, señalización, codificación y tecnología de empaque",
+      "descripcion": "Laboratorio de diseño de bodegas textiles: cálculo matemático del modelo EOQ y ROP, valuación PEPS para colorantes químicos y optimizador de cubicaje en tarimas.",
+      "nota": "Domina la administración cuantitativa de bodegas textiles y la conservación de telas e insumos.",
+      "items": [
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.1: El almacén y sus funciones",
+          "descripcion": "Reconoce qué es un almacén y distingue cada una de las funciones que cumple dentro de la operación textil.",
+          "url": "unidades/unidad-02/actividades/actividad-2-1.html",
+          "icono": "fa-warehouse"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.2: Almacenes especializados en la industria textil",
+          "descripcion": "Identifica los tipos de almacén que conviven en una planta textil y el material que resguarda cada uno.",
+          "url": "unidades/unidad-02/actividades/actividad-2-2.html",
+          "icono": "fa-boxes-packing"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.3: Diseño (layout) de un almacén",
+          "descripcion": "Ordena el flujo operativo de una bodega y aplica los principios que sostienen un buen layout.",
+          "url": "unidades/unidad-02/actividades/actividad-2-3.html",
+          "icono": "fa-ruler-combined"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.4: Sistemas de almacenamiento",
+          "descripcion": "Compara el almacenamiento en piso, en racks y automatizado a partir de sus ventajas y desventajas.",
+          "url": "unidades/unidad-02/actividades/actividad-2-4.html",
+          "icono": "fa-pallet"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.5: Administración de inventarios (método ABC)",
+          "descripcion": "Clasifica los materiales textiles en las categorías A, B y C aplicando el principio de Pareto.",
+          "url": "unidades/unidad-02/actividades/actividad-2-5.html",
+          "icono": "fa-chart-pie"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.6: Rotación de inventarios y picking",
+          "descripcion": "Elige la política de rotación adecuada (FIFO, LIFO o FEFO) y distingue los tipos de preparación de pedidos.",
+          "url": "unidades/unidad-02/actividades/actividad-2-6.html",
+          "icono": "fa-arrows-rotate"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 2.7: Señalización, codificación, empaque y embalaje",
+          "descripcion": "Reconoce la señalética de seguridad, los sistemas de codificación y la diferencia entre empaque y embalaje.",
+          "url": "unidades/unidad-02/actividades/actividad-2-7.html",
+          "icono": "fa-barcode"
+        },
+        {
+          "tag": "Simulador y Laboratorio ESIT",
+          "reactivos": "Simulador interactivo + 4 Fases",
+          "tiempo": "35 min",
+          "titulo": "Simulador y Caso: Empresa 'Moda ESIT'",
+          "descripcion": "Cálculo de Lote Económico EOQ con análisis de sensibilidad, prevención de mermas con PEPS y cubicaje normalizado de 8,000 prendas.",
+          "url": "unidades/unidad-02/actividades/actividad-final.html",
+          "icono": "fa-boxes-stacked",
+          "destacada": true
+        }
+      ]
+    },
+    {
+      "id": "unidad-03",
+      "pestana": "Unidad 3",
+      "titulo": "Unidad 3: Cadenas de suministro en la industria textil y del vestido",
+      "descripcion": "Simulador de compras y abastecimiento estratégico: explosión de materiales (BOM/MRP), calibración de matriz multicriterio ponderada y acuerdos SLA.",
+      "nota": "Aprende a eliminar mermas y cuellos de botella mediante homologación y Dual Sourcing.",
+      "items": [
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 3.1: Cadena de suministro en la empresa textil",
+          "descripcion": "Identifica las etapas de la cadena de suministro textil, su orden y cómo cada una depende de la anterior.",
+          "url": "unidades/unidad-03/actividades/actividad-3-1.html",
+          "icono": "fa-link"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 3.2: Planeación de la cadena y pronóstico de la demanda",
+          "descripcion": "Distingue el propósito de la planeación y los métodos cualitativos y cuantitativos para pronosticar la demanda.",
+          "url": "unidades/unidad-03/actividades/actividad-3-2.html",
+          "icono": "fa-chart-line"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 3.3: Gestión de compras y producción textil",
+          "descripcion": "Aplica los criterios de selección y la tabla de ponderación de proveedores, y reconoce la secuencia de la producción textil.",
+          "url": "unidades/unidad-03/actividades/actividad-3-3.html",
+          "icono": "fa-scale-balanced"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 3.4: Manufactura esbelta, justo a tiempo (JIT) y Kanban",
+          "descripcion": "Reconoce los desperdicios que elimina la manufactura esbelta y el funcionamiento del justo a tiempo y de Kanban.",
+          "url": "unidades/unidad-03/actividades/actividad-3-4.html",
+          "icono": "fa-layer-group"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 3.5: Logística inversa, nearshoring e indicadores (KPI)",
+          "descripcion": "Relaciona la logística inversa y el nearshoring con la competitividad, e interpreta los indicadores Fill Rate, OTIF, rotación de inventarios y Lead Time.",
+          "url": "unidades/unidad-03/actividades/actividad-3-5.html",
+          "icono": "fa-recycle"
+        },
+        {
+          "tag": "Simulador y Laboratorio ESIT",
+          "reactivos": "Simulador interactivo + 4 Fases",
+          "tiempo": "35 min",
+          "titulo": "Simulador y Caso: Negocio 'Confecciones ESIT'",
+          "descripcion": "Explosión de requerimientos netos (BOM), matriz multicriterio dinámica para 3 proveedores y negociación contractual de calidad AQL.",
+          "url": "unidades/unidad-03/actividades/actividad-final.html",
+          "icono": "fa-handshake",
+          "destacada": true
+        }
+      ]
+    },
+    {
+      "id": "unidad-04",
+      "pestana": "Unidad 4",
+      "titulo": "Unidad 4: Transportación y régimen aduanero",
+      "descripcion": "Simulador de comercio exterior y tráfico internacional: cálculo de flete por peso volumétrico, evaluación de rutas frente a ventana de 30 días, Incoterms® 2020 y despacho T-MEC.",
+      "nota": "Gestiona los trámites legales y de transporte de carga para la exportación de prendas a Canadá.",
+      "items": [
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 4.1: Importancia y modos de transporte",
+          "descripcion": "Compara los modos de transporte por velocidad, costo, capacidad y flexibilidad, y elige el adecuado para cada caso textil.",
+          "url": "unidades/unidad-04/actividades/actividad-4-1.html",
+          "icono": "fa-truck"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 4.2: Selección del medio de transporte y rutas de distribución",
+          "descripcion": "Aplica los factores de selección del medio de transporte y los criterios para diseñar rutas de distribución.",
+          "url": "unidades/unidad-04/actividades/actividad-4-2.html",
+          "icono": "fa-route"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 4.3: Régimen aduanero y documentación de comercio exterior",
+          "descripcion": "Distingue los regímenes aduaneros y la función de cada documento de comercio exterior.",
+          "url": "unidades/unidad-04/actividades/actividad-4-3.html",
+          "icono": "fa-file-contract"
+        },
+        {
+          "tag": "Actividad formativa",
+          "reactivos": "8 reactivos al azar",
+          "tiempo": "10 min",
+          "titulo": "Actividad 4.4: Agente aduanal, Incoterms® 2020 y transporte textil",
+          "descripcion": "Identifica las funciones del agente aduanal y elige el Incoterm® 2020 adecuado según las responsabilidades del vendedor.",
+          "url": "unidades/unidad-04/actividades/actividad-4-4.html",
+          "icono": "fa-globe"
+        },
+        {
+          "tag": "Simulador y Laboratorio ESIT",
+          "reactivos": "Simulador interactivo + 4 Fases",
+          "tiempo": "40 min",
+          "titulo": "Simulador y Caso: Empresa 'Exportaciones Textiles ESIT'",
+          "descripcion": "Cálculo de flete volumétrico para 8,000 chamarras, simulación modal con contingencias de ruta, selección de CIP/CIF y pedimento A1.",
+          "url": "unidades/unidad-04/actividades/actividad-final.html",
+          "icono": "fa-ship",
+          "destacada": true
+        }
+      ]
+    },
+    {
+      "id": "unidad-05",
+      "pestana": "Unidad 5",
+      "titulo": "Unidad 5: Tecnología de la información y configuración de la red de distribución",
+      "descripcion": "Laboratorio de transformación digital e Industria 4.0: arquitectura integrada ERP-WMS-TMS-MRP, calculadora de ROI para tecnología RFID y diseño de red omnicanal Ship-from-Store.",
+      "nota": "Formula proyectos de consultoría tecnológica e innovación omnicanal para empresas textiles.",
+      "items": [
+        {
+          "tag": "Simulador y Laboratorio ESIT",
+          "reactivos": "Simulador interactivo + 4 Fases",
+          "tiempo": "40 min",
+          "titulo": "Simulador y Caso: Empresa 'Innovación Textil ESIT'",
+          "descripcion": "Blueprint de arquitectura de sistemas, análisis financiero de Payback para pórticos RFID y simulación de red omnicanal para entrega en 24h.",
+          "url": "unidades/unidad-05/actividades/actividad-final.html",
+          "icono": "fa-microchip",
+          "destacada": true
+        }
+      ]
+    }
+  ]
+}
